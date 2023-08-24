@@ -1,2 +1,2 @@
 # Lab_04_Assignment
-# A newe Line added inside VS code
+# A new Line added inside VS code
